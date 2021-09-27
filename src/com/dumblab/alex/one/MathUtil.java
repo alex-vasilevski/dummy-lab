@@ -1,4 +1,4 @@
-package com.dumblab.ivan.one;
+package com.dumblab.alex.one;
 
 public class MathUtil {
     public static double sqr(double val){

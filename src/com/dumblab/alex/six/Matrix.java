@@ -1,4 +1,4 @@
-package com.dumblab.ivan.six;
+package com.dumblab.alex.six;
 
 public class Matrix {
     private Integer[][] content;

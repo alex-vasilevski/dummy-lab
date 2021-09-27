@@ -1,4 +1,4 @@
-package com.dumblab.ivan.one;
+package com.dumblab.alex.one;
 
 import static com.dumblab.ivan.one.MathUtil.sqr;
 import static java.lang.Math.abs;

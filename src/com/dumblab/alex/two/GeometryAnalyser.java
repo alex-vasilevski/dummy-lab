@@ -1,4 +1,4 @@
-package com.dumblab.ivan.two;
+package com.dumblab.alex.two;
 
 public class GeometryAnalyser {
     boolean isPointInside(double x, double y) {

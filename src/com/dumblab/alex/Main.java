@@ -1,5 +1,5 @@
 
-package com.dumblab.ivan;
+package com.dumblab.alex;
 
 import com.dumblab.ivan.six.MatrixProducer;
 
