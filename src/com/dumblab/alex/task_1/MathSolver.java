@@ -1,6 +1,6 @@
-package com.dumblab.alex.one;
+package com.dumblab.alex.task_1;
 
-import static com.dumblab.ivan.one.MathUtil.sqr;
+import static com.dumblab.alex.task_1.MathUtil.sqr;
 import static java.lang.Math.abs;
 import static java.lang.Math.sin;
 

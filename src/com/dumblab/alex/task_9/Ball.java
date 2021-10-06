@@ -1,4 +1,4 @@
-package com.dumblab.alex.nine;
+package com.dumblab.alex.task_9;
 
 public class Ball {
     private BallColor color;

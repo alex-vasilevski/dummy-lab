@@ -1,4 +1,4 @@
-package com.dumblab.alex.seven;
+package com.dumblab.alex.task_7;
 
 public class ShellSorter {
 

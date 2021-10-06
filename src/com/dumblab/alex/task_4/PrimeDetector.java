@@ -1,4 +1,4 @@
-package com.dumblab.alex.four;
+package com.dumblab.alex.task_4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

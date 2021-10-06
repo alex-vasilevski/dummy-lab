@@ -1,4 +1,4 @@
-package com.dumblab.alex.six;
+package com.dumblab.alex.task_6;
 
 public class Matrix {
     private Integer[][] content;
