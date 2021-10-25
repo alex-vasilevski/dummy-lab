@@ -1,6 +1,4 @@
-package com.dumblab.alex.task_5;
-
-import java.util.Scanner;
+package com.dumblab.ivan.task_5;
 
 public class Formula {
 

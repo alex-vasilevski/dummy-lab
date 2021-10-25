@@ -1,8 +1,6 @@
 
-package com.dumblab.alex;
+package com.dumblab.ivan;
 
-
-import com.dumblab.alex.task_6.MatrixProducer;
 
 public class Main {
 

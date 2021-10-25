@@ -1,6 +1,6 @@
-package com.dumblab.alex.task_13;
+package com.dumblab.ivan.task_13;
 
-import com.dumblab.alex.task_12_14.Book;
+import com.dumblab.ivan.task_12_14.Book;
 
 import java.util.Objects;
 

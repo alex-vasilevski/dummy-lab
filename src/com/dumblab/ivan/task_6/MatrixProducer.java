@@ -1,4 +1,4 @@
-package com.dumblab.alex.task_6;
+package com.dumblab.ivan.task_6;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.dumblab.alex.task_3;
+package com.dumblab.ivan.task_3;
 
 import static java.lang.Math.tan;
 
